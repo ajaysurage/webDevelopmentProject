@@ -1,0 +1,19 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.main {
+  background-image: url("https://www.decorilla.com/online-decorating/wp-content/uploads/2023/05/correcto.jpg");
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
+
+.hero {
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.carddd {
+  background-color: rgba(255, 255, 255),
+}
